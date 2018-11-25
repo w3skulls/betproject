@@ -7,69 +7,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/CuentaUsuarioBundle/Resources/config/routing.yml" description="registro_usuario:&#10;    path:     /registro-usuario&#10;..." line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ecccddd-8899-4ee9-bc3f-c1ff6ec721bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Resources/views/casino/sieteymedio.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/sieteymedio.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/10Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/10Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/10Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/10Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/1Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/1Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/1Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/1Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/2Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/2Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/2Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/2Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/3Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/3Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/3Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/3Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/4Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/4Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/4Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/4Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/5Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/5Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/5Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/5Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/6Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/6Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/6Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/6Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/7Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/7Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/7Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/7Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/8Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/8Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/8Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/8Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/9Bastos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/9Copas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/9Espadas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/9Oros.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/bgcartas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/sieteymedio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/trasera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/sieteymedio.script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIGERBET_final.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/AppKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/AppKernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/casino/game.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/casino/game.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/casino/tragaperras.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/casino/tragaperras.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/micuenta/pagos.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/micuenta/pagos.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/redsys/redsys.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/redsys/redsys.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StripeBundle/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/StripeBundle/Controller/DefaultController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StripeBundle/Resources/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/StripeBundle/Resources/config/routing.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/redsys.style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/tragaperras.script.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/tragaperras.script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/vars.script.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/vars.script.js" afterDir="false" />
-    </list>
+    <list default="true" id="1ecccddd-8899-4ee9-bc3f-c1ff6ec721bd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/vendor/composer/" />
     <ignored path="$PROJECT_DIR$/vendor/doctrine/annotations/" />
     <ignored path="$PROJECT_DIR$/vendor/doctrine/cache/" />
@@ -195,7 +133,7 @@
     <session id="1821284516">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="1" />
@@ -277,7 +215,7 @@
         <entry file="file://$PROJECT_DIR$/app/Resources/views/redsys/redsys.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -545,16 +483,15 @@
       <workItem from="1542744641430" duration="1177000" />
       <workItem from="1542746977732" duration="5858000" />
       <workItem from="1542833140910" duration="16758000" />
-      <workItem from="1542929054327" duration="47442000" />
+      <workItem from="1542929054327" duration="48042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188178000" />
+    <option name="totallyTimeSpent" value="188778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28895614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -897,7 +834,7 @@
     <entry file="file://$PROJECT_DIR$/app/Resources/views/redsys/redsys.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
